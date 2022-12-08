@@ -10,10 +10,11 @@ Let's try to objectively evaluate eras based upon sustained greatness: who were 
 
 Let's start by defining a nomenclature. Winning 65+ of 82 games in an NBA season shows dominance over the competition and is a strong predictor for a championship. In fact, 21 teams have won at least 65 games and 15 of those teams won the NBA championship. 60-65 game winners are also very competitive contenders, 55-60 game winners are serious contenders, 50-55 game winners are dark horse contenders, and 40-50 game winners are borderline playoff teams.  While cutoffs are somewhat arbitrary, they do need to be made somewhere and are indicated in Fig. 1. 
 
-
+<p align="center">
 <img width="286" alt="Avg_wins_label" src="https://user-images.githubusercontent.com/37279371/206335955-5f93f487-ae04-4447-96df-5959cf76361b.png">
 
 Fig 1. Historical rankings of teams based upon average wins over 4 years. 
+</p>
 
 
 
