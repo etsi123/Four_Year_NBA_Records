@@ -34,6 +34,7 @@ Fig 2. Teams with the most wins over 4 years. Most basketball pundits would agre
 
 
 
+![Hist](https://user-images.githubusercontent.com/37279371/206337934-92e9abd7-6d3d-49d2-aeb5-e9c8b07d8add.png)
 
 
 <p align="center">
