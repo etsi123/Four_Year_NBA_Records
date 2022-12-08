@@ -21,9 +21,11 @@ Fig 1. Historical rankings of teams based upon average wins over 4 years.
 As you can see from the results table (Fig. 2) or histogram (Fig. 3), teams often included in the discussion for "greatest team of all time" by NBA pundits are at the top - but one team emerges at the top by a wide-margin. The mid 2010's Golden State Warriors averaged 66.25 wins / year and won 3 of 4 NBA championships (and came within a Kyrie Irving step back 3 pointer of winning 4 of 4) between 2015 and 2018. This is 3.5 more wins / season than the second and third highest teams. Relative to their competition, no NBA team has ever been as dominant as the mid 2010s Golden State Warriors. Note, this is not solely because of the addition of Kevin Durant. The Warriors won the 2015 championship and the most regular season games (73) prior to acquiring Durant - a decision that ultimately solidified the Warriors as a nearly invincible juggernaut. They further showcased their sustained dominance at the turn of the decade as well, where they won another championship without Kevin Durant in the 2022 NBA season. 
 
 <img width="634" alt="Most_wins_table" src="https://user-images.githubusercontent.com/37279371/206336304-26b3a20f-9d94-471f-a34d-0eee663f1af3.png">
+
 Fig 2. Teams with the most wins over 4 years. Most basketball pundits would agree the featured teams are historically elite teams. 
 
 ![Hist](https://user-images.githubusercontent.com/37279371/206336355-ab848ea2-7dee-47d9-a7d5-7c919e60e5a8.png)
+
 Fig 3. Histogram of sum of wins over 4 years. Perhaps unsurprisingly, an average team wins ~40 games / season  (~50% of their games). 
 
 
