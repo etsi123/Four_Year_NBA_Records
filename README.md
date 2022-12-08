@@ -33,9 +33,9 @@ Fig 2. Teams with the most wins over 4 years. Most basketball pundits would agre
 </p>
 
 
-
+<p align="center">
 ![Hist](https://user-images.githubusercontent.com/37279371/206337934-92e9abd7-6d3d-49d2-aeb5-e9c8b07d8add.png)
-
+</p>
 
 <p align="center">
 Fig 3. Histogram of sum of wins over 4 years. Perhaps unsurprisingly, an average team wins ~40 games / season  (~50% of their games). 
