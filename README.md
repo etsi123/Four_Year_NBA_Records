@@ -12,10 +12,12 @@ Let's start by defining a nomenclature. Winning 65+ of 82 games in an NBA season
 
 <p align="center">
 <img width="286" alt="Avg_wins_label" src="https://user-images.githubusercontent.com/37279371/206335955-5f93f487-ae04-4447-96df-5959cf76361b.png">
-
-Fig 1. Historical rankings of teams based upon average wins over 4 years. 
 </p>
 
+
+<p align="center">
+Fig 1. Historical rankings of teams based upon average wins over 4 years. 
+</p>
 
 
 
