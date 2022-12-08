@@ -23,14 +23,23 @@ Fig 1. Historical rankings of teams based upon average wins over 4 years.
 
 As you can see from the results table (Fig. 2) or histogram (Fig. 3), teams often included in the discussion for "greatest team of all time" by NBA pundits are at the top - but one team emerges at the top by a wide-margin. The mid 2010's Golden State Warriors averaged 66.25 wins / year and won 3 of 4 NBA championships (and came within a Kyrie Irving step back 3 pointer of winning 4 of 4) between 2015 and 2018. This is 3.5 more wins / season than the second and third highest teams. Relative to their competition, no NBA team has ever been as dominant as the mid 2010s Golden State Warriors. Note, this is not solely because of the addition of Kevin Durant. The Warriors won the 2015 championship and the most regular season games (73) prior to acquiring Durant - a decision that ultimately solidified the Warriors as a nearly invincible juggernaut. They further showcased their sustained dominance at the turn of the decade as well, where they won another championship without Kevin Durant in the 2022 NBA season. 
 
+
+<p align="center">
 <img width="634" alt="Most_wins_table" src="https://user-images.githubusercontent.com/37279371/206336304-26b3a20f-9d94-471f-a34d-0eee663f1af3.png">
+</p>
 
+<p align="center">
 Fig 2. Teams with the most wins over 4 years. Most basketball pundits would agree the featured teams are historically elite teams. 
+</p>
 
+
+<p align="center">
 ![Hist](https://user-images.githubusercontent.com/37279371/206336355-ab848ea2-7dee-47d9-a7d5-7c919e60e5a8.png)
+</p>
 
+<p align="center">
 Fig 3. Histogram of sum of wins over 4 years. Perhaps unsurprisingly, an average team wins ~40 games / season  (~50% of their games). 
-
+</p>
 
 In the early 70s, two historically great teams emerged. Kareem Abdul-Jabbar and Oscar Robertson led the Milwaukee Bucks to 62 wins / season and solidified themselves as one of the top teams in basketball history. While dominant, they would only win 1 NBA championship during that stretch. The Boston Celtics amassed 61 wins / season during the same stretch and walked out of the 1980s with 2 NBA championships. Both legendary teams, but there was actually a great deal of parity in the NBA at that time with 8 unique champions during that decade - hardly a sign of sustained dominance. If an old-timer wanted to argue in favor of the apparent parity amongst the top teams, then they may have an argument in the 1980s. At their peaks, the Boston Celtics and Los Angeles Lakers each averaged 62.75 wins / season (tied for second all-time as of today) and faced each other in 3 epic finals (1984, 1986, and 1987). The 76ers also established themselves as a dominant force in the early 80s and have the 1983 NBA championship to show for it. Interestingly, the "Bad Boy" Detroit Pistons of the late 80s and early 90s averaged just 55 wins/season at their peak, far from the top, but were still able to dethrone the Celtics and Lakers and win back-to-back championships. In the 90s, the Chicago Bulls dominated the NBA and averaged 62.50 wins/season at their 4-year peak. Their closest competition during this stretch were the mid 90s Seattle Supersonics and Utah Jazz each with 60.25 wins / season on average. Importantly, the Seattle Supersonics and the Utah Jazz are the first team in the "Historically Great" category to fail to win an NBA championship during their historical stretch. 
 
